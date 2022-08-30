@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.main-header {
+  text-align: center;
+  padding: 20px;
+}
+.SJF {
+  padding: 10px;
+}
+.SJF-Header {
+  padding: 10px 0px;
+}
+
+.btn {
+  width: 50px;
+  height: 30px;
+  background-color: rgb(121, 213, 182);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#SJF-Table {
+  margin: 20px;
+  padding: 20px;
+  /* border: 1px solid rgb(101, 101, 101); */
+}
+#SJF-Table th {
+  padding: 10px;
+  border: 1px solid rgb(101, 101, 101);
+}
+#SJF-Table td {
+  margin: 20px;
+  border: 1px solid rgb(101, 101, 101);
+  text-align: center;
+}
+#progress-bar_1 {
+  display: flex;
+}
